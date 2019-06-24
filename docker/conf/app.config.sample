@@ -282,7 +282,7 @@
       },
       "logging": {
           "enabled": true,
-          "level_file": "PRODUCTION_LOGGING.json",
+          "level_file": "DEBUG_LOGGING.json",
           "location": "/var/log/ors",
           "stdout": true
       }
